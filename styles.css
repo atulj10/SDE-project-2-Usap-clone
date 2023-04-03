@@ -1,0 +1,482 @@
+body
+{
+    background-color: rgb(255, 255, 255);
+    margin: 0%;
+    padding: 0%;
+}
+
+.beside1
+{
+    margin: 0;
+    position: relative;
+    left: 150px;
+    display: inline;
+    top: 0px;
+    font-family: Arial;
+    color: #3E54AC;
+}
+
+.beside2
+{
+    margin: 0;
+    position: relative;
+    left: 87px;
+    display: inline;
+    top:   9px;
+    font-family: Arial;
+    color: #3E54AC;
+}
+
+.brand
+{
+    margin: 10px;
+    padding: 0 40px 0;
+    position: relative;
+    left: 300px;
+    height: 40px;
+    top: 60px;
+}
+
+.bg1
+{
+    margin: 0;
+    padding: 0 20px 0;
+    position: relative;
+    top: 490px;
+    left: 0px;
+    height: 300px;
+}
+
+.bg2
+{
+    margin: 0;
+    padding: 0 20px 0;
+    position: relative;
+    left: 410px;
+    top: 180px;
+    height: 300px;
+}
+
+.bg3
+{
+    margin: 0;
+    padding: 0 20px 0;
+    position: relative;
+    left: 410px;
+    top: 180px;
+    height: 300px;
+}
+
+.bg1:hover
+{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+
+.bg2:hover
+{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+
+.bg3:hover
+{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+
+.Content
+{
+    margin: 0;
+    position: relative;
+    left: 1100px;
+    font-family: Arial;
+    color: #3E54AC;
+}
+
+
+.w1
+{ 
+    margin: 0px;
+    position: relative;
+    left: 200px;
+    top: 0px;
+    font-size: 40px;
+    color: #3E54AC;
+    font-family: Arial;
+}
+
+.title
+{
+    margin: 0px;
+    position: relative;
+    left: 200px;
+    top: 10px; 
+    font-size: 50px;
+    font-family: Arial;
+    color: #3E54AC;
+}
+.title1
+{
+    margin: 0px;
+    position: relative;
+    left: 200px;
+    top: 0px; 
+    font-size: 50px;
+    font-family: Arial;
+    color: #3E54AC;
+}
+
+.uw
+{
+    margin: 0;
+    position: relative;
+    left: 200px;
+    height: 250px;
+    top: 150px;
+    padding: 0 20px 0 ;
+}
+
+.logo
+{
+    margin: 0;
+    height: 35px;
+    position: relative;
+    top: 10px;
+    padding-right: 5px;
+    left: 150px;
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+}
+
+.op
+{
+    margin: 0;
+    padding: 0 20px;
+    height: 200px;
+    position: relative;
+    top: 250px;
+    left: 150px;
+}
+
+.op:hover
+{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+
+.p
+{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 200px;
+    top:30px;
+    font-size:20px;
+    font-family: Arial;
+    color: #3E54AC;
+}
+
+.p1
+{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 80px;
+    top: 130px;
+    font-size: 25px;
+    font-family: Arial;
+    color: #3E54AC;
+}
+
+.p2
+{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 80px;
+    top: 130px;
+    font-size: 25px;
+    font-family: Arial;
+    color: #3E54AC;
+}
+
+.p3
+{
+    margin: 0;
+    position: relative;
+    left: 70px;
+    top: 200px;
+    font-size: 30px;
+    font-family: Arial;
+    color: #3E54AC;
+}
+
+.p4
+{
+    margin: 0;
+    position: relative;
+    left: 70px;
+    top: 200px;
+    font-size: 20px;
+    font-family: Arial;
+    color: #3E54AC;
+}
+
+.hr
+{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 100px;
+}
+
+
+.hr1
+{
+    margin: 0;
+  position: relative;
+  top: 12px;
+  left: 200px;
+  width: 150px;
+}
+
+.navbar
+{
+    background-color: rgba(228, 225, 225, 0.938);
+    margin: 0;
+    padding: 0 10px 5px ;
+    position: fixed;
+}
+
+.search
+{
+    margin: 0px;
+    position: relative;
+    left: 400px;
+    background-color: white;
+    position: fixed;
+    height: 25px;
+    border-color: grey;
+    background-color: white;
+    border-radius: 7px;
+    top: 10px;
+}
+
+.search button
+{
+    position:relative;
+    left: 350px;
+    height: 25px;
+    border-style: none;
+    background-color: white;
+}
+
+.search input
+{
+    margin: 0px;
+    border-style: none;
+    background-color:white;
+    outline: none;
+    font-family: Arial;
+    text-decoration-color: #3E54AC;
+}
+
+.img1
+{
+    margin:0;
+    height: 27px;
+    position: relative;
+    left: 850px;
+}
+
+.img1:hover
+{
+    background-color: #3E54AC;
+}
+
+.img2:hover
+{
+    background-color: #3E54AC;
+}
+
+.img3:hover
+{
+    background-color: #3E54AC;
+}
+
+.img4:hover
+{
+    background-color: #3E54AC;
+}
+
+.img5:hover
+{
+    background-color: #3E54AC;
+}
+
+
+.d 
+{
+    margin: 0;
+    position: relative;
+    left: 150px;
+    top: 350px;
+    height: 600px;
+}
+
+.imgg
+{
+    margin: 0;
+    position: relative;
+    left: 240px;
+    top: 300px;
+}
+
+.img2
+{
+    margin:0;
+    height: 25px;
+    position: relative;
+    left: 890px;
+}
+
+.img3
+{
+    margin:0;
+    height: 25px;
+    position: relative;
+    left: 930px;
+}
+
+.img4
+{
+    margin:0;
+    height: 25px;
+    position: relative;
+    left: 970px;
+}
+
+.img5
+{
+    margin:0;
+    height: 25px;
+    position: relative;
+    left: 1010px;
+}
+
+.img-1
+{
+    margin: 10px;
+    height: 200px;
+    position: relative;
+    left: 1000px;
+    top: 100px;
+}
+
+.img-2
+{
+    margin: 10px;
+    height: 200px;
+    position: relative;
+    left: 1000px;
+    top: 100px;
+}
+
+.img-3
+{
+    margin: 10px;
+    height: 200px;
+    position: relative;
+    left: 1000px;
+    top: 100px;
+}
+
+.img-4
+{
+    margin: 10px;
+    height: 200px;
+    position: relative;
+    top: 320px;
+    left: 450px;
+}
+
+.img-5
+{
+    margin: 10px;
+    height: 200px;
+    position: relative;
+    top: 320px;
+    left: 450px;
+}
+
+.img-6
+{
+    margin: 10px;
+    height: 200px;
+    position: relative;
+    top: 320px;
+    left: 450px;
+}
+
+.img-1:hover
+{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+
+.img-2:hover
+{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+
+.img-3:hover
+{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+
+.img-4:hover
+{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+
+.img-5:hover
+{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+
+.img-6:hover
+{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+
+
+
+
